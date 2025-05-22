@@ -42,3 +42,6 @@ end)
 vim.opt.colorcolumn = "80"
 
 vim.opt.updatetime = 250
+
+vim.g.user42 = "whuth"
+vim.g.mail42 = "whuth@student.42berlin.de"

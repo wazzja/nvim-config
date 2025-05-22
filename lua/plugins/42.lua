@@ -1,6 +1,7 @@
 return {
 
 	"MoulatiMehdi/42norm.nvim",
+	keys = { "<leader>m" },
 	config = function()
 		local norm = require("42norm")
 
